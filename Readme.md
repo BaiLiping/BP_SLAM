@@ -1,3 +1,6 @@
+Source: https://gitlab.com/erikleitinger/BP-Multipath-basedSLAM
+
+
 This project contains an example MATLAB implementation of a Bayesian SLAM algorithm following the paper 'A Belief Propagation Algorithm for Multipath-Based SLAM' [1-3] and a flowchart of the algorithm. Just execute the file 'testbed.m'. At the end of the simulation a few result-plots are shown. The parameters are chosen according to the setup found in the paper. Note that both flow chart as well as the implemenation contain the zero-measurement PHD filter as it can be found in the extended version of our paper on [2].
 
 [1] E. Leitinger, F. Meyer, F. Hlawatsch, K. Witrisal, F. Tufvesson, and M. Z. Win, “A
